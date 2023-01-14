@@ -42,7 +42,8 @@ n = int(input())
 ```
 
 ## Output:
-![](./Nvariables.png)
+
+![WhatsApp Image 2023-01-14 at 12 36 29](https://user-images.githubusercontent.com/119401150/212460650-879c197c-f54e-4d01-b1bc-a01d32a1f687.jpg)
 
 ## Result:
 
