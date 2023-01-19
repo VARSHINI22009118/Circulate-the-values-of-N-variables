@@ -42,8 +42,8 @@ n = int(input())
 ```
 
 ## Output:
+![var1](https://user-images.githubusercontent.com/119401150/213505518-50af2a93-b3e1-4baa-b775-9a1298e42653.jpeg)
 
-![WhatsApp Image 2023-01-14 at 12 36 29](https://user-images.githubusercontent.com/119401150/212460650-879c197c-f54e-4d01-b1bc-a01d32a1f687.jpg)
 
 ## Result:
 
